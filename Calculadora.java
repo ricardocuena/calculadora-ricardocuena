@@ -26,6 +26,7 @@ public static int dividir(int a, int b) {
         System.out.println("5 + 3 = " + sumar(5, 3));
         System.out.println("5 - 3 = " + restar(5, 3));
         System.out.println("5 * 3 = " + multiplicar(5, 3));
-	System.out.println("6 / 3 = " + dividir(6, 3));
+		System.out.println("6 / 3 = " + dividir(6, 3));
+		System.out.println("7 % 3 = " + modulo(7, 3));
     }
 }
